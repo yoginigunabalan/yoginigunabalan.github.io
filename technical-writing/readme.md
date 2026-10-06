@@ -44,5 +44,5 @@ A sample of technical documentation demonstrating my ability to structure comple
 * Procedure and task-based documentation
 * Content structure and formatting
 
-📄 **[View CHEP Technical Writing Sample](CHEP.pdf)**
+📄 **[View CHEP Technical Writing Sample](CHEP Material Intelligence.pdf)**
 
