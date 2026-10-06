@@ -29,3 +29,20 @@ A structured writing style guide created to promote consistency, clarity, and re
 * Articulate Storyline
 
 More writing samples will be added to this section.
+
+## Featured Sample
+
+### CHEP — Technical Writing Sample
+
+A sample of technical documentation demonstrating my ability to structure complex information into clear, user-focused content.
+
+**Skills demonstrated:**
+
+* Technical writing
+* Information organization
+* Clear and concise communication
+* Procedure and task-based documentation
+* Content structure and formatting
+
+📄 **[View CHEP Technical Writing Sample](CHEP.pdf)**
+
